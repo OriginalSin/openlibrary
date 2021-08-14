@@ -55,7 +55,7 @@ msgstr "или"
 #: account.html:21 databarHistory.html:17 databarTemplate.html:13
 #: databarView.html:20 type/edition/view.html:345 type/work/view.html:345
 msgid "Edit"
-msgstr ""
+msgstr "Редактировать"
 
 #: account.html:21
 msgid "Your Profile Page"
