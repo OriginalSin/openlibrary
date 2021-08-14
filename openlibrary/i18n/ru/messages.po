@@ -59,7 +59,7 @@ msgstr "Редактировать"
 
 #: account.html:21
 msgid "Your Profile Page"
-msgstr ""
+msgstr "Страница вашего профиля"
 
 #: account.html:22
 msgid "View or Edit your Reading Log"
